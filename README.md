@@ -2,6 +2,6 @@
 Team product repository
 
 #When everyone is free
-<br> Hammy: 
+<br> Hammy: Wednesday ##7:30pm - 1:30am##, weekends vary.
 <br> Justin: Wednesday, Friday, and Weekends
-<br> Noah: Tues - Fri most weekends
+<br> Noah: 
