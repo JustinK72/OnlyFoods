@@ -2,6 +2,6 @@
 Team product repository
 
 #When everyone is free
-Hammy: 
-Justin: Wednesday, Friday, and Weekends
-Noah: 
+<br> Hammy: 
+<br> Justin: Wednesday, Friday, and Weekends
+<br> Noah: 
