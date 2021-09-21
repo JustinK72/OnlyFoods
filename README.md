@@ -6,5 +6,5 @@ Team product repository
 <br> Justin: Wednesday, Friday, and Weekends
 <br> Noah: Wednesday - Friday and most weekends
 
-*Product Ideas*
+*Product Ideas* <br>
 1. 
