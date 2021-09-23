@@ -29,7 +29,7 @@ Group message, Zoom or in person meetings
 <br> Interests: 
 
 # Noah
-<br> Ennegram: `Type 9` The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
+<br> * Ennegram: `Type 9` The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
 <br> Github: 
 <br> Skills: 
 <br> Interests: 
