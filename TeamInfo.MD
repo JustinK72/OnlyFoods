@@ -1,8 +1,12 @@
 # Team name:
-# Resources: 'Github, Visual Studio Code'
+
+# Resources: 
+Github, Visual Studio Code
 # Processes:
+
 # Brainstorming:
-# Team roles (dynamic) 
+
+# Team roles (dynamic): 
 
 # Team Member Information
 <br> **Hammy Webb**: `Wednesday` 7:30pm - 1:30am, `Weekends vary`.
