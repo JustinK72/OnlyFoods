@@ -20,7 +20,7 @@ Name:
 Links
 github
 other dev profiles 
-**Noah Moats** Email: nmoats@una.edu or nmoats10@gmail.com **GHYT Link** https://gist.github.com/noahmoats
+<br>**Noah Moats** Email: nmoats@una.edu or nmoats10@gmail.com **GHYT Link** https://gist.github.com/noahmoats
 
 ## Ennegram Types:
 <br> **Hammy**: `Type 7`
