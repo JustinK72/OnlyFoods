@@ -9,4 +9,4 @@ Team product repository
 # Ennegram Types:
 <br> **Hammy**: 
 <br> **Justin**: `Type 2`
-<br> **Noah**: 
+<br> **Noah**: 'Type 9'
