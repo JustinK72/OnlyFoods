@@ -1,10 +1,7 @@
 # Functional-Product
 Team product repository
-
-# Team member availability
-<br> **Hammy**: `Wednesday` 7:30pm - 1:30am, `Weekends vary`.
-<br> **Justin**: `Wednesday`, `Friday`, and `Weekends`
-<br> **Noah**: `Wednesday` , `Friday` and `most Weekends`
+# Team member information
+https://github.com/JustinK72/Functional-Product/blob/main/TeamInfo.MD
 
 # Ennegram Types:
 <br> **Hammy**: 
