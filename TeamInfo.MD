@@ -22,5 +22,6 @@ other dev profiles
 # Ennegram Types:
 <br> **Hammy**: 
 <br> **Justin**: `Type 2`
-<br> **Noah**: 'Type 9'
+<br> **Noah**: `Type 9`
+
 skills, interests
