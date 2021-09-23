@@ -17,19 +17,19 @@ Group message, Zoom or in person meetings
 
 ## TEAM MEMBER
 # Hammy
-<br> Ennegram: `Type 7` The Busy, Fun-Loving Type: Spontaneous, Versatile, Distractible, and Scattered
-<br> Github: [Hammyzack](https://github.com/Hammyzack)
-<br> Skills: Organized, Graphic Design, Social Media, Creative
-<br> Interests: Hiking, Gaming, Kayaking, Traveling
+ * Ennegram: `Type 7` The Busy, Fun-Loving Type: Spontaneous, Versatile, Distractible, and Scattered
+ * Github: [Hammyzack](https://github.com/Hammyzack)
+ * Skills: Organized, Graphic Design, Social Media, Creative
+ * Interests: Hiking, Gaming, Kayaking, Traveling
 
 # Justin
-<br> Ennegram: `Type 2` The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
-<br> Github: 
-<br> Skills: 
-<br> Interests: 
+ * Ennegram: `Type 2` The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
+ * Github: 
+ * Skills: 
+ * Interests: 
 
 # Noah
  * Ennegram: `Type 9` The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
  * Github: 
-<br> Skills: 
-<br> Interests: 
+ * Skills: 
+ * Interests: 
