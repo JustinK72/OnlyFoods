@@ -30,6 +30,6 @@ Group message, Zoom or in person meetings
 
 # Noah
  * Ennegram: `Type 9` The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
- * Github: 
- * Skills: 
- * Interests: 
+ * Github: [NoahMoats] (https://gist.github.com/noahmoats)
+ * Skills: Adaptive, Good Listener, Goes with the flow
+ * Interests: Watching sports, Playing golf, Exploring music
