@@ -26,9 +26,9 @@ Group message, Zoom or in person meetings
 
 # Justin
  * Ennegram: `Type 2` The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
- * Github: 
- * Skills: 
- * Interests: 
+ * Github: [GitHub Profile](https://github.com/JustinK72/)
+ * Skills: Networking, Flexable, Computer Security, and Determined
+ * Interests: Playing Games, Playing & listening to Music, Watching Movies, and anything to do with comics/anime
 
 # Noah
  * Ennegram: `Type 9` The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
