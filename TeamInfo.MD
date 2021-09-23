@@ -4,7 +4,6 @@
 Github, Visual Studio Code
 ## Processes:
 Group message, Zoom or in person meetings
-
 ## Brainstorming:
 <br> **App Ideas/Suggestions??**
 <br>
