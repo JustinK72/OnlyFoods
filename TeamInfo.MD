@@ -1,27 +1,28 @@
 # Team name: 
-** Fire Breathing Rubber Duckies**
+# Fire Breathing Rubber Duckies
 
-# Resources: 
+## Resources: 
 Github, Visual Studio Code
-# Processes:
+## Processes:
 Group message, Zoom or in person meetings
-# Brainstorming:
 
-# Team roles (dynamic): 
+## Brainstorming:
 
-# Team Member Availability
+## Team roles (dynamic): 
+
+## Team Member Availability
 <br> **Hammy Webb**: `Wednesday` 7:30pm - 1:30am, `Weekends vary`.
 <br> **Justin Knight**: `Wednesday`, `Friday`, and `Weekends`
 <br> **Noah Moats**: `Wednesday` , `Friday` and `most Weekends`
 
 
-# TEAM MEMBER
+## TEAM MEMBER
 Name:
 Links
 github
 other dev profiles 
 
-# Ennegram Types:
+## Ennegram Types:
 <br> **Hammy**: `Type 7`
 <br> **Justin**: `Type 2`
 <br> **Noah**: `Type 9`
