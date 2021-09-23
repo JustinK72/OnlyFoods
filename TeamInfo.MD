@@ -30,6 +30,6 @@ Group message, Zoom or in person meetings
 
 # Noah
  * Ennegram: `Type 9` The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
-<br> Github: 
+ * Github: 
 <br> Skills: 
 <br> Interests: 
