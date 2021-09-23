@@ -16,15 +16,20 @@ Group message, Zoom or in person meetings
 
 
 ## TEAM MEMBER
-Name:
-Links
-github
-other dev profiles 
-<br>**Noah Moats** Email: nmoats@una.edu or nmoats10@gmail.com **GHYT Link** https://gist.github.com/noahmoats
+# Hammy
+Ennegram: `Type 7` The Busy, Fun-Loving Type: Spontaneous, Versatile, Distractible, and Scattered
+Github: [Hammyzack](https://github.com/Hammyzack)
+Skills: Organized, Graphic Design, Social Media, Creative
+Interests: Hiking, Gaming, Kayaking, Traveling
 
-## Ennegram Types:
-<br> **Hammy**: `Type 7`
-<br> **Justin**: `Type 2`
-<br> **Noah**: `Type 9`
+# Justin
+Ennegram: `Type 2` The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
+Github: 
+Skills: 
+Interests: 
 
-skills, interests
+# Noah
+Ennegram: `Type 9` The Easygoing, Self-Effacing Type: Receptive, Reassuring, Agreeable, and Complacent
+Github: 
+Skills: 
+Interests: 
