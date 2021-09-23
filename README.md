@@ -11,7 +11,7 @@ Team product repository
 <br> **Justin**: `Type 2`
 <br> **Noah**: 'Type 9'
 
-#Instructions
+# Instructions
 REPOSITORY
 a single entry point into your PRODUCT. 
 GitHub <code> is where source code lives. Readme tends to be part of the PRODUCT (but may refer to team)
