@@ -20,7 +20,7 @@ Links
 github
 other dev profiles 
 # Ennegram Types:
-<br> **Hammy**: 
+<br> **Hammy**: `Type 7`
 <br> **Justin**: `Type 2`
 <br> **Noah**: `Type 9`
 
