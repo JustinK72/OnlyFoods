@@ -1,5 +1,5 @@
 # Team name:
-# Resources: Github, Visual Studio Code
+# Resources: 'Github, Visual Studio Code'
 # Processes:
 # Brainstorming:
 # Team roles (dynamic) 
