@@ -1,9 +1,5 @@
 # Team name: [Fire Breathing Rubber Duckies](https://images.app.goo.gl/oF2PzsmXxMRqzDZ76)
 
-## TEAM Product Repository
-- [ ] TEAM ATTRIBUTES
-
-
 ## Resources: 
 Github, Visual Studio Code
 ## Processes:
