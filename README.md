@@ -2,7 +2,7 @@
 Team product repository
 
 ## TEAM Product Repository Requirements
-- [x] REPOSITORY
+- [ ] REPOSITORY
 - [ ] TEAM ATTRIBUTES
 - [ ] TEAM MEMBER
 - [ ] README
