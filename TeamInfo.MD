@@ -19,5 +19,8 @@ Name:
 Links
 github
 other dev profiles 
-enneagram (and what it means for your DEV TEAM)
+# Ennegram Types:
+<br> **Hammy**: 
+<br> **Justin**: `Type 2`
+<br> **Noah**: 'Type 9'
 skills, interests
