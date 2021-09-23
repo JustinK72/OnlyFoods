@@ -8,7 +8,7 @@ Group message, Zoom or in person meetings
 
 # Team roles (dynamic): 
 
-# Team Member Information
+# Team Member Availability
 <br> **Hammy Webb**: `Wednesday` 7:30pm - 1:30am, `Weekends vary`.
 <br> **Justin Knight**: `Wednesday`, `Friday`, and `Weekends`
 <br> **Noah Moats**: `Wednesday` , `Friday` and `most Weekends`
@@ -19,6 +19,7 @@ Name:
 Links
 github
 other dev profiles 
+
 # Ennegram Types:
 <br> **Hammy**: `Type 7`
 <br> **Justin**: `Type 2`
