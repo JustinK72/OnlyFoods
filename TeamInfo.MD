@@ -1,4 +1,4 @@
-# Team name: Fire Breathing Rubber Duckies
+# Team name: [Fire Breathing Rubber Duckies](https://images.app.goo.gl/oF2PzsmXxMRqzDZ76)
 
 ## Resources: 
 Github, Visual Studio Code
