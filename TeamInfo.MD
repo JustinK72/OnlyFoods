@@ -3,7 +3,7 @@
 # Resources: 
 Github, Visual Studio Code
 # Processes:
-
+Group message, Zoom or in person meetings
 # Brainstorming:
 
 # Team roles (dynamic): 
