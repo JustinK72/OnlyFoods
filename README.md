@@ -1,7 +1,7 @@
 # Functional-Product
 Team product repository
 # Team member information
-[Team](https://github.com/JustinK72/Functional-Product/blob/main/TeamInfo.MD)
+[Team Info Link](https://github.com/JustinK72/Functional-Product/blob/main/TeamInfo.MD)
 
 
 
