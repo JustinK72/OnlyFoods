@@ -16,12 +16,12 @@ REPOSITORY
 a single entry point into your PRODUCT. 
 GitHub <code> is where source code lives. Readme tends to be part of the PRODUCT (but may refer to team)
 Wiki/gists or other GitHub Tools internal to PRODUCT team
-
-  Issues initialized
+ Issues initialized
 Single URL should get us into the PRODUCT and pathway to team info
 
   TEAM ATTRIBUTES
-team name:
+
+  team name:
 resources: tools, links, ...
 processes: meetings, communication, workflow 
 brainstorming
@@ -29,11 +29,13 @@ team roles (dynamic)
 schedules
 
   TEAM MEMBER
-Names, links, github, other dev profiles, 
+
+  Names, links, github, other dev profiles, 
 enneagram (and what it means for your DEV TEAM)
 skills, interests
 
   README
-Initialized, started, Formatted, linked
+
+  Initialized, started, Formatted, linked
 Quality/Complete
 Organized, self-describing, markdown, links, ...
