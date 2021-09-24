@@ -7,10 +7,10 @@ Group message, Github Projects/issues, Zoom, or in person meetings
 ## Brainstorming:
 **App Ideas/Suggestions??**
 <br>
-### Issues: [link](https://github.com/JustinK72/Functional-Product/issues)
-### Project Wiki: [link](https://github.com/JustinK72/Functional-Product/wiki)
-### Projects: [link](https://github.com/JustinK72/Functional-Product/projects)
-### Project Deadlines: [link](https://github.com/JustinK72/Functional-Product/projects/1)
+### Issues: [Link](https://github.com/JustinK72/Functional-Product/issues)
+### Project Wiki: [Link](https://github.com/JustinK72/Functional-Product/wiki)
+### Projects: [Link](https://github.com/JustinK72/Functional-Product/projects)
+### Project Deadlines: [Link](https://github.com/JustinK72/Functional-Product/projects/1)
 
 ## Team roles (dynamic): 
 1. Hammy - Tester & Designer
