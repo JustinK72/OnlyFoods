@@ -2,11 +2,11 @@
 Team product repository
 
 ## TEAM Product Repository Requirements
-- [ ] REPOSITORY
-- [ ] TEAM ATTRIBUTES
-- [ ] TEAM MEMBER
-- [ ] README
-- [ ] Quality/Complete
+- [x] REPOSITORY
+- [x] TEAM ATTRIBUTES
+- [x] TEAM MEMBER
+- [x] README
+- [x] Quality/Complete
 
 ## Team member information
 [Team Info Link](https://github.com/JustinK72/Functional-Product/blob/main/TeamInfo.MD)
