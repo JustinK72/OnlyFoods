@@ -22,12 +22,12 @@ Group message, Zoom or in person meetings
  * Ennegram: `Type 7` The Busy, Fun-Loving Type: Spontaneous, Versatile, Distractible, and Scattered
  * Github: [Hammyzack](https://github.com/Hammyzack)
  * Skills: Organized, Graphic Design, Social Media, Creative
- * Interests: [Hiking](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fimages-prod.healthline.com%2Fhlcmsresource%2Fimages%2Ftopic_centers%2F2019-8%2Fcouple-hiking-mountain-climbing-1296x728-header.jpg%3Fw%3D1155%26h%3D1528&imgrefurl=https%3A%2F%2Fwww.healthline.com%2Fhealth%2Ffitness%2Fhiking-training-strength&tbnid=lTgG-0p3TxKXpM&vet=1&docid=z-vnKsn7Btfm7M&w=1155&h=648&source=sh%2Fx%2Fim), [Gaming](https://images.app.goo.gl/NsS2FyxXpNYceZAi6), [Kayaking,](https://images.app.goo.gl/LZaP9LZngB8pjCP2A) [Traveling](https://images.app.goo.gl/jiFV6m56WuSrazx8A)
+ * Interests: ![Hiking](https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-8/couple-hiking-mountain-climbing-1296x728-header.jpg?w=1155&h=1528), ![Gaming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZfVzQ0tS1wCbwiZED8XsUQPaljp9ziEhUAQSEhwK5O-CrTq5we1G6qQSxEBN1M45mK0&usqp=CAU), ![Kayaking,](https://edenvaleinn.com/wp-content/uploads/2019/04/eden-vale-woman-kayaking.jpeg) ![Traveling](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/03/traveling-based-on-fare-deals.jpg)
 
 
 # Justin
  * Ennegram: `Type 2` The Caring, Interpersonal Type: Demonstrative, Generous, People-Pleasing, and Possessive
- * Github: [GitHub Profile](https://github.com/JustinK72/)
+ * Github: [JustinK72](https://github.com/JustinK72/)
  * Skills: Networking, Flexable, Computer Security, and Determined
  * Interests: Playing Games, Playing & listening to Music, Watching Movies, and anything to do with comics/anime
 
