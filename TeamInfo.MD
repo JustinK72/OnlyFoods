@@ -7,6 +7,7 @@ Group message, Zoom or in person meetings
 ## Brainstorming:
 **App Ideas/Suggestions??**
 <br>
+## [Issues:](https://github.com/JustinK72/Functional-Product/issues)
 
 ## Team roles (dynamic): 
 
