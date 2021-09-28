@@ -1,4 +1,4 @@
-# Team name: Fifty Shades of Food ![Fifty Shades of Food ](https://images.app.goo.gl/deZiGDiedGTMhJrv7)
+# Team name: Fifty Shades of Food ![](https://images.app.goo.gl/deZiGDiedGTMhJrv7)
 
 ## Resources: 
 Github, Visual Studio Code
