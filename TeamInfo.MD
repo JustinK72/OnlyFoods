@@ -1,4 +1,4 @@
-# Team name: Fifty Shades of Food ![](https://images.app.goo.gl/deZiGDiedGTMhJrv7)
+# Team name: [Fifty Shades of Food](https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/gettyimages-889108630.jpg?itok=G1ZEtuPk)
 
 ## Resources: 
 Github, Visual Studio Code
