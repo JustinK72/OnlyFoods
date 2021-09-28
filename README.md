@@ -1,4 +1,4 @@
-# Functional-Product
+# OnlyFoods
 Team product repository
 
 ## TEAM Product Repository Requirements
