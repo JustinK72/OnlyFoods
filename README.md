@@ -1,5 +1,4 @@
-# OnlyFoods
-Team product repository
+# OnlyFoods repository
 
 ## TEAM Product Repository Requirements
 - [x] REPOSITORY
