@@ -1,15 +1,13 @@
 # OnlyFoods repository
 
 ## TEAM Product Proposal Requirements
-- [ ] Before and After. What itch are you gonna scratch? 
-- [ ] Background: other apps, inspiration, interfaces?
-- [ ] Schematic: Flowchart, Process, Interface, Wireframe. Some visual depiction.
-- [ ] Process: Steps. Old way, new way? 
-- [ ] Approach: How to eat an elephant? (Brainstorm, ideas?) 
-- [ ] Presentation/Format: Clear and integrated with the REPO. 
+- [x] Before and After. What itch are you gonna scratch? 
+- [x] Background: other apps, inspiration, interfaces?
+- [x] Schematic: Flowchart, Process, Interface, Wireframe. Some visual depiction.
+- [x] Process: Steps. Old way, new way? 
+- [x] Approach: How to eat an elephant? (Brainstorm, ideas?) 
+- [x] Presentation/Format: Clear and integrated with the REPO. 
 
-## Team member information
-[Team Info Link](https://github.com/JustinK72/Functional-Product/blob/main/TeamInfo.MD)
 
 ## Resources
 ### The team wiki/info can be found [here](https://github.com/JustinK72/Functional-Product/wiki)
