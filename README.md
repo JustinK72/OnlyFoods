@@ -11,9 +11,5 @@
 [Team Info Link](https://github.com/JustinK72/Functional-Product/blob/main/TeamInfo.MD)
 
 ## Resources
-### Issues: [Link](https://github.com/JustinK72/Functional-Product/issues)
-### Project Wiki: [Link](https://github.com/JustinK72/Functional-Product/wiki)
-### Projects: [Link](https://github.com/JustinK72/Functional-Product/projects)
+### The team wiki/info can be found [here](https://github.com/JustinK72/Functional-Product/wiki)
 ### Project Deadlines: [Link](https://github.com/JustinK72/Functional-Product/projects/1)
-
-
