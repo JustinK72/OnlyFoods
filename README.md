@@ -13,4 +13,4 @@
 
 ## Resources
 ### The team wiki/info can be found [here](https://github.com/JustinK72/Functional-Product/wiki)
-### Project Deadlines: [Link](https://github.com/JustinK72/Functional-Product/projects/1)
+### Project [Deadlines](https://github.com/JustinK72/Functional-Product/projects/1)
