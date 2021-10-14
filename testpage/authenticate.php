@@ -5,10 +5,8 @@ session_start();
 $uname = $_REQUEST['username'];
 $password = $_REQUEST['pwd'];
 
-if ($pwd == "shazam") {
+if ($pwd == "bar") {
     $_SESSION['user'] = $user;
-    header("Location: index.php");
+    header("Location: ui_page.html");
 } else {
-    header("Location: login.php");
-}
-
+    header("Location: LoginPage.html");
