@@ -17,8 +17,22 @@ You may vent your frustrations or celebrate your successes
 
 At this point, just get it started and capture your impressions of the product and progress so far. 
 
-<h3> prompts </h3>
+<h2> prompts </h2>
 [ ] What has your group done well?
 [ ] What can your group improve on? 
 [ ] What is your level of confidence on creating a successful product? 
 [ ] What are you doing to help the team? 
+
+<h2> PREVIEW OF WHAT'S TO COME </h2>
+
+Eventually, I may ask for some of these things for you to respond to individually: 
+
+identify a specific problem and how you fixed it (e.g., connect to database, get some code working, deploy on heroku, capture user credentials) 
+
+talk like a developer: a good issue card or conversation that is a great example of communication and documentation 
+
+some ethical situation: within your team, that a user of your product might encounter, that you as a developer face
+
+how you were a good team member, acting as a leader at times, providing support at other times.
+
+<h1> This has to be done in a secret gist on your account and we all have to turn in our own indiviually tomorrow </h1>
