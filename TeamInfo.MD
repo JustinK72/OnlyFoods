@@ -7,9 +7,6 @@ Group message, Github Projects/issues, Zoom, or in person meetings
 ## Brainstorming:
 [Brainstorm/Ideas](https://github.com/JustinK72/Functional-Product/wiki/Brainstorm-Ideas)
 <br>
-### Issues: [Link](https://github.com/JustinK72/Functional-Product/issues)
-### Project Wiki: [Link](https://github.com/JustinK72/Functional-Product/wiki)
-### Projects: [Link](https://github.com/JustinK72/Functional-Product/projects)
 ### Project Deadlines: [Link](https://github.com/JustinK72/Functional-Product/projects/1)
 
 ## Team roles (dynamic): 
