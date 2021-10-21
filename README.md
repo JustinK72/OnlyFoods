@@ -12,4 +12,4 @@
 ### The team wiki/info can be found [here](https://github.com/JustinK72/Functional-Product/wiki)
 ### Project [Deadlines](https://github.com/JustinK72/Functional-Product/projects/1)
 
-##[Heroku App](https://onlyfoodloginpage.herokuapp.com/signin.php)
+[Heroku App](https://onlyfoodloginpage.herokuapp.com/signin.php)
