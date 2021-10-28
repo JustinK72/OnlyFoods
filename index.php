@@ -70,7 +70,7 @@ if (!isset($_SESSION['uname'])){
         html,
         body {
             min-height: 100vh;
-            background-color: #e8e8e8;
+            background-color: #E6E6FA;
         }
 
         .container {
