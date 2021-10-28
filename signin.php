@@ -114,7 +114,7 @@ span.psw {
   to {transform: scale(1)}
 }
 h2{
- color:#0000FF;}
+ color:#FFFFFF;}
 
 
 
