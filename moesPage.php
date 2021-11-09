@@ -61,6 +61,12 @@ if (!isset($_SESSION['uname'])){
     <a href="pandaPage.php" class="btn btn-outline-danger">Hate</a>
     <a href="pandaPage.php" class="btn btn-outline-success">Like</a>
 </div>
-
+<style type="text/css">
+        html,
+        body {
+            min-height: 100vh;
+            background-color: #E6E6FA;
+        }
+        </style>
 </body>
 </html>
