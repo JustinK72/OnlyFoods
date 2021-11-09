@@ -53,7 +53,10 @@ The code below uses a slide and arrows to display three different photos. We upd
 }
 ```
 ## Next steps
-- Display images in a better way on the apps interface.
-- Save users input as they go.
-- Shuffle button?
+- Display images in a better way on the apps interface so they are the same size all the way across.
+- Save users input as they go, only on the app during current sesssion.
+- Shuffle button? Not really necessary just 3 choices as of now.
+- Add more resturants
+- Improve mobile interface
+- Add more food images
 - Take the app from the proto stage to final product. 🏅
