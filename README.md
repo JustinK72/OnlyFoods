@@ -52,3 +52,8 @@ The code below uses a slide and arrows to display three different photos. We upd
   </div>
 }
 ```
+## Next steps
+- Display images in a better way on the apps interface.
+- Save users input as they go.
+- Shuffle button?
+- Take the app from the proto stage to final product. 🏅
