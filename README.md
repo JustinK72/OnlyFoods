@@ -17,7 +17,7 @@
 ## Some example bootstrap for the 
 '''html
 {
-"  <!-- Carousel -->
+ <!-- Carousel -->
   <div id="demo" class="carousel slide" data-bs-ride="carousel">
 
     <!-- Indicators/dots -->
@@ -48,6 +48,6 @@
     <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
       <span class="carousel-control-next-icon"></span>
     </button>
-  </div>"
+  </div>
 }
 '''
