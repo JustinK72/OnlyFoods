@@ -15,7 +15,7 @@
 [Heroku App](https://onlyfoodloginpage.herokuapp.com/signin.php)
 
 ## Some example bootstrap for the carousel 
-The code below uses a slide and arrows to display three different photos. We updated this code with our own images and added buttons that make it go from page to page.
+The code below uses a slide and arrows to display three different photos. We updated this code with our own images and added buttons that shoot it from page to page to display the different menu items and prices.
 ```html
 {
  <!-- Carousel -->
