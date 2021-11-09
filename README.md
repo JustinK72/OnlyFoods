@@ -15,7 +15,7 @@
 [Heroku App](https://onlyfoodloginpage.herokuapp.com/signin.php)
 
 ## Some example bootstrap for the 
-'''html
+```html
 {
  <!-- Carousel -->
   <div id="demo" class="carousel slide" data-bs-ride="carousel">
@@ -50,4 +50,4 @@
     </button>
   </div>
 }
-'''
+```
