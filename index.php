@@ -21,14 +21,14 @@ if (!isset($_SESSION['uname'])) {
 </head>
 
 <body ng-app="ui_page">
-  <head>
+  
+<head>
 <style>
 body {
   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFnfTi-LF7KmBhu3U--EClHv0vHX8_rZOSA&usqp=CAU');
 }
 </style>
 </head>
-
 
 
     <!-- Carousel -->
@@ -44,10 +44,10 @@ body {
         <!-- The slideshow/carousel -->
         <div class="carousel-inner" >
             <div class="carousel-item active">
-                <img src="http://d1fd34dzzl09j.cloudfront.net/Images/CFACOM/Stories%20Images/2018/08/nuggets/h2cpT-3Q.jpeg" alt="8 Count Nugget" class="d-block">
+                <img src="http://d1fd34dzzl09j.cloudfront.net/Images/CFACOM/Stories%20Images/2018/08/nuggets/h2cpT-3Q.jpeg" alt="8 Count Nugget" class="img-fluid">
             </div>
             <div class="carousel-item">
-                <img src="https://cdn.vox-cdn.com/thumbor/-3bt2sZHhWuSO0g5Z1NS9mIU0xc=/0x0:2048x1719/1200x800/filters:focal(861x697:1187x1023)/cdn.vox-cdn.com/uploads/chorus_image/image/68617495/Chick_fil_a_No_12.0.jpg" alt="chicken-nugget" class="d-block">
+                <img src="https://cdn.vox-cdn.com/thumbor/-3bt2sZHhWuSO0g5Z1NS9mIU0xc=/0x0:2048x1719/1200x800/filters:focal(861x697:1187x1023)/cdn.vox-cdn.com/uploads/chorus_image/image/68617495/Chick_fil_a_No_12.0.jpg" alt="chicken-nugget" class="img-fluid">
 
             </div>
             <div class="carousel-item">
@@ -64,12 +64,12 @@ body {
         </button>
     </div>
 
-    <div class="container-fluid mt-3" style="text-align: center">
+    <div class="container p-5 my-5 bg-dark text-white" style="text-align: center">
         <h3>Chick-Fil-a</h3>
         <p>8-Count Nugget meal $7.19 250 calories<br>Chicken Sandwich meal $7.09 440 calories <br>12-Count Nugget meal $8.79 330 calories <br></p>
-    </div>
+    
 
-<div class="container p-5 my-5 bg-dark text-white" style="text-align: center">
+    
         <a href="moesPage.php" class="btn btn-outline-primary">Unsure</a>
         <a href="moesPage.php" class="btn btn-outline-danger">Hate</a>
         <a href="moesPage.php" class="btn btn-outline-success">Like</a>
@@ -102,6 +102,4 @@ body {
     </style>
 
 </body>
-
-
 </html>
