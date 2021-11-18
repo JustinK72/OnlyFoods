@@ -64,7 +64,7 @@ body {
         </button>
     </div>
 
-    <div class="container-md p-5 my-5 bg-dark text-white" style="text-align: center">
+    <div class="container-sm p-5 my-5 bg-dark text-white" style="text-align: center">
         <h3>Chick-Fil-a</h3>
         <p>8-Count Nugget meal $7.19 250 calories<br>Chicken Sandwich meal $7.09 440 calories <br>12-Count Nugget meal $8.79 330 calories <br></p>
     
