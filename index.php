@@ -45,7 +45,7 @@ if (!isset($_SESSION['uname'])) {
             <div class="carousel-item">
                 <img src="http://d1fd34dzzl09j.cloudfront.net/Images/CFACOM/Stories%20Images/2018/08/nuggets/Header.jpg" alt="Yum" class="d-block">
             </div>
-             <div class="carousel-inner" >
+            
             <div class="carousel-item active">
                 <img src="https://www.cfacdn.com/img/order/menu/Online/Entrees/grilledClub_colbyJack_PDP.png" alt="Chicken Club" class="d-block">
             </div>
