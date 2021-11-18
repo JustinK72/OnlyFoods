@@ -28,8 +28,7 @@ if (!isset($_SESSION['uname'])) {
 body {
   background-image: url('Chick-fil-A-logo.png');
 }
-</style>
-</head>
+
 
 
     <!-- Carousel -->
