@@ -51,7 +51,7 @@ if (!isset($_SESSION['uname'])) {
         </button>
     </div>
 
-    <div class="container-fluid mt-3">
+    <div class="container-fluid mt-3" style="text-align: center">
         <h3>Panda Express</h3>
         <p>Black Pepper Angus Steak with Vegtables and Lo mein Noodles $8.24 525 calories<br>Orange Chicken and Rice $7.15 600 calories<br>Bowl of Kung pao chicken $5.50 490 calories<br></p>
     </div>
