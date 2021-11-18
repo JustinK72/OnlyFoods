@@ -18,7 +18,13 @@ if (!isset($_SESSION['uname'])) {
     <a href="signin.php">Log out</a>
 </head>
 <body>
-
+<head>
+<style>
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4V-sB8EradqdedJCUY8y5WvlMGzcv6Bw1eA&usqp=CAU');
+}
+</style>
+</head>
     <!-- Carousel -->
     <div id="demo" class="carousel slide" data-bs-ride="carousel">
 
@@ -32,14 +38,14 @@ if (!isset($_SESSION['uname'])) {
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://www.moes.com/-/media/moes/menu/burritos/moes_457694_menu-image-updates_891x490_burrito_v1.jpg?v=1&d=20201117T140643Z&h=490&w=891&la=en&hash=30ACA4DAA51298F34E" alt="moes" class="d-block">
+                <img src="https://www.moes.com/-/media/moes/menu/burritos/moes_457694_menu-image-updates_891x490_burrito_v1.jpg?v=1&d=20201117T140643Z&h=490&w=891&la=en&hash=30ACA4DAA51298F34E" alt="moes" class="img-fluid">
             </div>
             <div class="carousel-item">
-                <img src="https://www.moes.com/-/media/moes/menu/bowls/moes_457694_menu-image-updates_891x490_bowl_v1.jpg?v=1&d=20201118T110709Z&h=490&w=891&la=en&hash=5019CCAA2617B254EBF7" alt="bowl" class="d-block">
+                <img src="https://www.moes.com/-/media/moes/menu/bowls/moes_457694_menu-image-updates_891x490_bowl_v1.jpg?v=1&d=20201118T110709Z&h=490&w=891&la=en&hash=5019CCAA2617B254EBF7" alt="bowl" class="img-fluid">
 
             </div>
             <div class="carousel-item">
-                <img src="https://www.moes.com/-/media/moes/menu/stacks/moes_457694_menu-image-updates_891x490_stack_v1.jpg?v=1&d=20201119T090044Z&h=490&w=891&la=en&hash=9BE47A189751D8452A6E0" alt="Yum" class="d-block">
+                <img src="https://www.moes.com/-/media/moes/menu/stacks/moes_457694_menu-image-updates_891x490_stack_v1.jpg?v=1&d=20201119T090044Z&h=490&w=891&la=en&hash=9BE47A189751D8452A6E0" alt="Yum" class="img-fluid">
             </div>
         </div>
 
