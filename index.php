@@ -21,7 +21,13 @@ if (!isset($_SESSION['uname'])) {
 </head>
 
 <body ng-app="ui_page">
-  
+  <head>
+<style>
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFnfTi-LF7KmBhu3U--EClHv0vHX8_rZOSA&usqp=CAU');
+}
+</style>
+</head>
 
 
 
@@ -63,7 +69,7 @@ if (!isset($_SESSION['uname'])) {
         <p>8-Count Nugget meal $7.19 250 calories<br>Chicken Sandwich meal $7.09 440 calories <br>12-Count Nugget meal $8.79 330 calories <br></p>
     </div>
 
-    <div class="container mt-3" style="text-align: center">
+<div class="container p-5 my-5 bg-dark text-white" style="text-align: center">
         <a href="moesPage.php" class="btn btn-outline-primary">Unsure</a>
         <a href="moesPage.php" class="btn btn-outline-danger">Hate</a>
         <a href="moesPage.php" class="btn btn-outline-success">Like</a>
