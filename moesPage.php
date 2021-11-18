@@ -52,7 +52,7 @@ if (!isset($_SESSION['uname'])) {
         </button>
     </div>
 
-    <div class="container-md p-5 my-5 bg-dark text-white" style="text-align: center">
+    <div class="container-sm p-5 my-5 bg-dark text-white" style="text-align: center">
         <h3>Moes Southwest Grill</h3>
         <p>Homewrecker Burrito with chicken and guac $7.00 625 Calories<br>Homewrecker Burito Bowl with Chicken and Guac $6.30 550 Calories<br>Sothwest Stack with Chicken Cheese and Southwest Ranch $7.69 650 Calories<br></p>
    
