@@ -22,12 +22,6 @@ if (!isset($_SESSION['uname'])) {
 
 <body ng-app="ui_page">
   
-    <html>
-<head>
-<style>
-body {
-  background-image: url('Chick-fil-A-logo.png');
-}
 
 
 
