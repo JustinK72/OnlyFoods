@@ -1,13 +1,3 @@
-<?php
-session_start();
-
-if (!isset($_SESSION['uname'])) {
-    header('Location: signin.php');
-}
-?>
-<!DOCTYPE html>
-<html lang="en">
-    <head>
         <title>Panda Express</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,6 +7,13 @@ if (!isset($_SESSION['uname'])) {
     <a href="signin.php">Log out</a>
 </head>
 <body>
+<head>
+<style>
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ50xmxC_tJ4FCShJWRnKa1-iBkk1Uc2zhdFg&usqp=CAU');
+}
+</style>
+</head>
 
     <!-- Carousel -->
     <div id="demo" class="carousel slide" data-bs-ride="carousel">
@@ -31,14 +28,14 @@ if (!isset($_SESSION['uname'])) {
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://d1ralsognjng37.cloudfront.net/2c9841a7-c2e5-4202-bcb4-dc7cff46c668.jpeg" alt="panda" class="d-block">
+                <img src="https://d1ralsognjng37.cloudfront.net/2c9841a7-c2e5-4202-bcb4-dc7cff46c668.jpeg" alt="panda" class="img-fluid">
             </div>
             <div class="carousel-item">
-                <img src="https://www.vnatexas.org/wp-content/uploads/2021/03/Panda-Express-Orange-Chicken_Consumer-e1569841498459.jpg" alt="orange-chicken" class="d-block">
+                <img src="https://www.vnatexas.org/wp-content/uploads/2021/03/Panda-Express-Orange-Chicken_Consumer-e1569841498459.jpg" alt="orange-chicken" class="img-fluid">
 
             </div>
             <div class="carousel-item">
-                <img src="http://images.summitmedia-digital.com/yummyph/images/2019/09/30/panda-express-philippines-001.jpg" alt="Yum" class="d-block">
+                <img src="http://images.summitmedia-digital.com/yummyph/images/2019/09/30/panda-express-philippines-001.jpg" alt="Yum" class="img-fluid">
             </div>
         </div>
 
