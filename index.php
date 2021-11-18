@@ -21,6 +21,15 @@ if (!isset($_SESSION['uname'])) {
 </head>
 
 <body ng-app="ui_page">
+   //Background image
+    <html>
+<head>
+<style>
+body {
+  background-image: url('Chick-fil-A-logo.png');
+}
+</style>
+</head>
 
 
     <!-- Carousel -->
