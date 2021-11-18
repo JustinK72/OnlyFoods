@@ -51,12 +51,12 @@ if (!isset($_SESSION['uname'])) {
         </button>
     </div>
 
-    <div class="container-fluid mt-3" style="text-align: center">
+    <div class="container-md p-5 my-5 bg-dark text-white" style="text-align: center">
         <h3>Panda Express</h3>
         <p>Black Pepper Angus Steak with Vegtables and Lo mein Noodles $8.24 525 calories<br>Orange Chicken and Rice $7.15 600 calories<br>Bowl of Kung pao chicken $5.50 490 calories<br></p>
-    </div>
+   
 
-    <div class="container mt-3">
+    
         <a href="index.php" class="btn btn-outline-primary">Unsure</a>
         <a href="index.php" class="btn btn-outline-danger">Hate</a>
         <a href="index.php" class="btn btn-outline-success">Like</a>
