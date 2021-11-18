@@ -52,12 +52,12 @@ if (!isset($_SESSION['uname'])) {
         </button>
     </div>
 
-    <div class="container-fluid mt-3" style="text-align: center">
+    <div class="container-md p-5 my-5 bg-dark text-white" style="text-align: center">
         <h3>Moes Southwest Grill</h3>
         <p>Homewrecker Burrito with chicken and guac $7.00 625 Calories<br>Homewrecker Burito Bowl with Chicken and Guac $6.30 550 Calories<br>Sothwest Stack with Chicken Cheese and Southwest Ranch $7.69 650 Calories<br></p>
-    </div>
+   
 
-    <div class="container mt-3" style="text-align: center">
+    
         <a href="pandaPage.php" class="btn btn-outline-primary">Unsure</a>
         <a href="pandaPage.php" class="btn btn-outline-danger">Hate</a>
         <a href="pandaPage.php" class="btn btn-outline-success">Like</a>
