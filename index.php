@@ -51,7 +51,7 @@ body {
 
             </div>
             <div class="carousel-item">
-                <img src="http://d1fd34dzzl09j.cloudfront.net/Images/CFACOM/Stories%20Images/2018/08/nuggets/Header.jpg" alt="Yum" class="d-block">
+                <img src="http://d1fd34dzzl09j.cloudfront.net/Images/CFACOM/Stories%20Images/2018/08/nuggets/Header.jpg" alt="Yum" class="img-fluid">
             </div>
         </div>
 
