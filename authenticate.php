@@ -9,15 +9,15 @@ $testUser = "test";
 $_SESSION['uname'] = $uname;
 $_SESSION['psw'] = $password;
 
-if ($uname == "Justin") {
+if ($uname == "Justin" || $uname == "justin") {
     if ($password == "test") {
         header("Location: index.php");
     }
-} else if ($uname == "Hammy") {
+} else if ($uname == "Hammy" || $uname == "hammy") {
     if ($password == "test") {
         header("Location: index.php");
     }
-} else if ($uname == "Noah") {
+} else if ($uname == "Noah" || $uname == "noah") {
     if ($password == "test") {
         header("Location: index.php");
     }
