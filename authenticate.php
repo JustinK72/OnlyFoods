@@ -9,18 +9,15 @@ $testUser = "test";
 $_SESSION['uname'] = $uname;
 $_SESSION['psw'] = $password;
 
-if ($uname == "test"){
-    if ($password == "bar"){
+/*
+if ($uname == "food"){
+    if ($password == "pass"){
         header("Location: index.php");
     }
 } else{
     header("Location: signin.php");
 }
-/*
-if ($password == "bar") {
-    //$_SESSION['uname'] = $user;
+*/
+
+if ($password == "a") {
     header("Location: index.php");
-} else {
-    header("Location: signin.php");
-}
- */
