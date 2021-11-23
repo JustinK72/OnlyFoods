@@ -10,8 +10,16 @@ $_SESSION['uname'] = $uname;
 $_SESSION['psw'] = $password;
 
 
-if ($uname == "food"){
-    if ($password == "pass"){
+if ($uname == "Justin"){
+    if ($password == "test"){
+        header("Location: index.php");
+    }
+} else if ($uname == "Hammy"){
+    if ($password == "test"){
+        header("Location: index.php");
+    }
+} else if ($uname == "Noah"){
+    if ($password == "test"){
         header("Location: index.php");
     }
 } else{
